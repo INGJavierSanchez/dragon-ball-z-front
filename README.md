@@ -1,6 +1,6 @@
 # 🐉 Dragon Ball Z Front
 
-![Dragon Ball Z Banner](https://via.placeholder.com/1200x400?text=Dragon+Ball+Z+Front) <!-- Reemplazar con imagen real -->
+![Dragon Ball Z Banner]( https://via.placeholder.com/1200x400?text=Dragon+Ball+Z+Front](https://raw.githubusercontent.com/INGJavierSanchez/dragon-ball-z-front/refs/heads/main/dbz.jpg ) <!-- Reemplazar con imagen real -->
 
 Dragon Ball Z Front es una aplicación front-end desarrollada con Next.js que consume una API en Node.js para mostrar información sobre personajes de Dragon Ball Z.
 
