@@ -1,4 +1,4 @@
-# 🐉 Dragon Ball Z Front
+#  Dragon Ball Z
 
 ![Dragon Ball Z Banner](https://raw.githubusercontent.com/INGJavierSanchez/dragon-ball-z-front/refs/heads/main/dbz.jpg) <!-- Reemplazar con imagen real -->
 
